@@ -1,7 +1,7 @@
 name: Deploy UX demo
 on:
   push:
-    branches: [codex/interactive-ux-demo]
+    branches: [main]
   workflow_dispatch:
 permissions:
   contents: read

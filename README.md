@@ -19,6 +19,20 @@ Pour connecter un déploiement Convex :
 npm run convex:dev
 ```
 
+## Prototype UX cliquable
+
+Une simulation sans backend est incluse pour présenter et tester les parcours essentiels :
+
+- espace indépendant : tableau de bord, informations, produits et avis ;
+- espace client : tableau de bord, Passeport Local, visites et récompenses ;
+- bascule instantanée entre les deux rôles et adaptation mobile.
+
+```bash
+npm run dev
+```
+
+Toutes les données et actions de ce prototype sont simulées localement.
+
 ## Documentation
 
 - `docs/product/FEATURES.md`
